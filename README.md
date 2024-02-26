@@ -11,7 +11,7 @@
 - [Conclusion](#conclusion)
 
 ## Project Objective
-The project aim to Develop a machine-learning model for predicting the likelihood of a person having a heart disease based on there health features.
+The project aim to develop a machine-learning model for predicting the likelihood of a person having a heart disease based on there health features.
 
 ## Data Sources
 The Dataset used in these project was provided by 10Alytics. The dataset contains relevant health data from patients at Peterside Hospital, including demographic information, medical history, lifestyle factors and results from diagnostic test.
