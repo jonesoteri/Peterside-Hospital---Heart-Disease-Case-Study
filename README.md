@@ -1,7 +1,7 @@
 # Peterside-Hospital---Heart-Disease-Case-Study
 
 ## Table of Contents 
-- [Project Objectivel](#project-objective).
+- [Project Objective](#project-objective).
 - [Data Sources](#data-sources).
 - [Data Preprocessing](#data-preprocessing).
 - [Exploratory Data Analysis](#EDA).
