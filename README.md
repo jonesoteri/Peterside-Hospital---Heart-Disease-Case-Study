@@ -6,7 +6,7 @@
 - [Data Preprocessing](#data-preprocessing).
 - [Exploratory Data Analysis](#EDA).
 - [Machine Learning Model](#machine-learning-model).
-- (Evaluation Metrics] (#evaluation-metrics).
+- [Evaluation Metrics] (#evaluation-metrics).
 - [Key_Insights](#key-insights).
 - [Conclusion](#conclusion)
 
