@@ -46,7 +46,7 @@ To access the performance of machine learning model, the following evaluation me
 - The confusion matrix displays the error value for each model in terms of false negative (where the model predict that there are 0 patient with heart disease but on the actual there are 5 patient with heart disease.
 
   ## Conclusion
-  The "Peterside-Hospital---Heart-Disease-Case project" successfully developed a machine learning model   for predicting the likelihood of heart disease using a supervised learning approach.
-  The RandomForestClassifier has highest of recall score 87.5% compare to other models, along with good   precision, recall, F1-score, and AUC-ROC, indicating its effectiveness in identifying heart disease   cases.
+  The "Peterside-Hospital---Heart-Disease-Case project" i successfully developed a machine learning       model for predicting the likelihood of heart disease using a supervised learning approach.
+  The RandomForestClassifier has highest of recall score 87.2% compare to other models, along with good   precision, recall, F1-score, and AUC-ROC, indicating its effectiveness in identifying heart disease     cases.
 
 
